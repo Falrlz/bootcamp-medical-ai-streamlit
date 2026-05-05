@@ -24,17 +24,17 @@ Based on the bootcamp modules, participants are expected to:
 
 ## Bootcamp Sessions
 
-1. **Session 1 – Environment Setup**  
-    Installation and configuration of tools and libraries
+### 1. **Session 1 – Environment Setup**  
+Installation and configuration of tools and libraries
 
-2. **Session 2 – Data Preprocessing**  
-   Data cleaning, normalization, and dataset splitting using Pima Indians Diabetes Dataset
+### 2. **Session 2 – Data Preprocessing**  
+Data cleaning, normalization, and dataset splitting using Pima Indians Diabetes Dataset
 
-3. **Session 3 – Machine Learning Modeling**  
-   Model training and evaluation using algorithms such as Decision Tree
+### 3. **Session 3 – Machine Learning Modeling**  
+Model training and evaluation using algorithms such as Decision Tree
 
-4. **Session 4 – Web Development & Deployment**  
-   Building and deploying ML models using Streamlit
+### 4.. **Session 4 – Web Development & Deployment**  
+Building and deploying ML models using Streamlit
 
 ## Practice
 
@@ -48,7 +48,7 @@ A simple web-based application to calculate Body Mass Index (BMI).
 
 **Preview:**
 <p align="left">
-  <img src="assets/bmi-preview.gif" width="400"/>
+  <img src="assets/bmi-calculator-preview.gif" width="600"/>
 </p>
 
 ### 2. Diabetes Prediction (Machine Learning + Streamlit)
@@ -74,7 +74,7 @@ A machine learning-based system to predict diabetes using the **Pima Indians Dia
 
 **Preview:**
 <p align="left">
-  <img src="assets/diabetes-prediction-preview.gif" width="400"/>
+  <img src="assets/diabetes-prediction-preview.gif" width="600"/>
 </p>
 
 ## Repository Structure
@@ -100,7 +100,8 @@ bootcamp-medical-ai-streamlit/
 │       ├── requirements.txt  # Project-specific dependencies
 │       └── README.md         # Documentation for diabetes project
 │
-└──  README.md                 # Main documentation for the bootcamp
+├── README.md                 # Main documentation for the bootcamp
+└── .gitignore                # Files ignored by Git (venv, cache, etc.)
 ```
 
 ## Technologies Used
@@ -116,12 +117,12 @@ bootcamp-medical-ai-streamlit/
 
 ## How to Run
 
-1. Clone repository:
+### 1. Clone repository:
 ```bash
 git clone https://github.com/Falrlz/bootcamp-medical-ai-streamlit.git
 ```
 
-2. Create Virtual Environment
+### 2. Create Virtual Environment
 **Windows:**
 ```bash
 python -m venv venv
@@ -133,19 +134,19 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
 ```
-3. Navigate to Project Directory
+### 3. Navigate to Project Directory
 ```bash
 cd practice/bmi-calculator
 # or
 cd practice/diabetes-prediction
 ```
 
-4. Install dependencies:
+### 4. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-5. Run APP
+### 5. Run App
 ```bash
 streamlit run app.py
 ```
@@ -162,7 +163,7 @@ This bootcamp is designed to support:
 ## Bootcamp Activities
 
 <p align="left">
-  <img src="assets/bootcamp-activity.jpg" width="400"/>
+  <img src="assets/bootcamp-activity.jpg" width="600"/>
 </p>
 
 ## Notes
