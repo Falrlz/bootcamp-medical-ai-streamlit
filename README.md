@@ -33,7 +33,7 @@ Data cleaning, normalization, and dataset splitting using Pima Indians Diabetes 
 ### 3. **Session 3 – Machine Learning Modeling**  
 Model training and evaluation using algorithms such as Decision Tree
 
-### 4.. **Session 4 – Web Development & Deployment**  
+### 4. **Session 4 – Web Development & Deployment**  
 Building and deploying ML models using Streamlit
 
 ## Practice
@@ -48,7 +48,7 @@ A simple web-based application to calculate Body Mass Index (BMI).
 
 **Preview:**
 <p align="left">
-  <img src="assets/bmi-calculator-preview.gif" width="600"/>
+  <img src="assets/bmi-calculator-preview.gif" width="300"/>
 </p>
 
 ### 2. Diabetes Prediction (Machine Learning + Streamlit)
@@ -74,7 +74,7 @@ A machine learning-based system to predict diabetes using the **Pima Indians Dia
 
 **Preview:**
 <p align="left">
-  <img src="assets/diabetes-prediction-preview.gif" width="600"/>
+  <img src="assets/diabetes-prediction-preview.gif" width="300"/>
 </p>
 
 ## Repository Structure
@@ -163,7 +163,7 @@ This bootcamp is designed to support:
 ## Bootcamp Activities
 
 <p align="left">
-  <img src="assets/bootcamp-activity.jpg" width="600"/>
+  <img src="assets/bootcamp-activity.jpg" width="300"/>
 </p>
 
 ## Notes
