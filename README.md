@@ -47,7 +47,9 @@ A simple web-based application to calculate Body Mass Index (BMI).
 - Health category classification
 
 **Preview:**
-![BMI App Preview](assets/bmi-calculator-preview.gif)
+<p align="left">
+  <img src="assets/bmi-preview.gif" width="400"/>
+</p>
 
 ### 2. Diabetes Prediction (Machine Learning + Streamlit)
 
@@ -71,7 +73,9 @@ A machine learning-based system to predict diabetes using the **Pima Indians Dia
 - Prediction probability (confidence score)
 
 **Preview:**
-![Diabetes App Preview](assets/diabetes-prediction-preview.gif)
+<p align="left">
+  <img src="assets/diabetes-prediction-preview.gif" width="400"/>
+</p>
 
 ## Repository Structure
 
