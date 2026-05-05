@@ -56,10 +56,10 @@ A simple web-based application to calculate Body Mass Index (BMI).
 A machine learning-based system to predict diabetes using the **Pima Indians Diabetes Dataset**.
 
 **Dataset Source:**
-- https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
 **Pipeline:**
-- Data → Preprocessing → Feature Scaling → SMOTE → Model Training → Evaluation → Deployment
+Data → Preprocessing → Feature Scaling → SMOTE → Model Training → Evaluation → Deployment
 
 **Techniques Used:**
 - Data Cleaning (handling zero as missing values)
