@@ -24,16 +24,16 @@ Based on the bootcamp modules, participants are expected to:
 
 ## Bootcamp Sessions
 
-### 1. **Session 1 – Environment Setup**  
+- **Session 1 – Environment Setup**  
 Installation and configuration of tools and libraries
 
-### 2. **Session 2 – Data Preprocessing**  
+- **Session 2 – Data Preprocessing**  
 Data cleaning, normalization, and dataset splitting using Pima Indians Diabetes Dataset
 
-### 3. **Session 3 – Machine Learning Modeling**  
+- **Session 3 – Machine Learning Modeling**  
 Model training and evaluation using algorithms such as Decision Tree
 
-### 4. **Session 4 – Web Development & Deployment**  
+- **Session 4 – Web Development & Deployment**  
 Building and deploying ML models using Streamlit
 
 ## Practice
