@@ -9,7 +9,7 @@ The system uses a trained machine learning model with a preprocessing pipeline t
 
 ## Preview
 
-![Diabetes App Preview](../../assets/diabetes-preview.gif)
+![Diabetes App Preview](../../assets/diabetes-prediction-preview.gif)
 
 ## Machine Learning Pipeline
 
@@ -97,7 +97,7 @@ diabetes-prediction/
 
 ## How to Run
 
-1. Create Virtual Environment
+### 1. Create Virtual Environment
 **Windows:**
 ```bash
 python -m venv venv
@@ -110,12 +110,12 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-2. Install dependencies:
+### 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run APP
+### 3. Run APP
 ```bash
 streamlit run app.py
 ```

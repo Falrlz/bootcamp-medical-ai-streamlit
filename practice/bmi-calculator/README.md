@@ -10,7 +10,7 @@ The system is built with a clean separation between logic and interface, includi
 
 ## Preview
 
-![BMI App Preview](../../assets/bmi-preview.gif)
+![BMI App Preview](../../assets/bmi-calculator-preview.gif)
 
 ## Features
 
@@ -69,7 +69,7 @@ BMI = Weight (kg) / [Height (m)]<sup>2</sup>
 
 ## How to Run
 
-1. Create Virtual Environment
+### 1. Create Virtual Environment
 **Windows:**
 ```bash
 python -m venv venv
@@ -82,12 +82,12 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-2. Install dependencies:
+### 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run APP
+### 3. Run APP
 ```bash
 streamlit run app.py
 ```
